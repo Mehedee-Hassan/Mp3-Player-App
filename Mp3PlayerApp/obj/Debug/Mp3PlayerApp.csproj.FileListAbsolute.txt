@@ -1,0 +1,9 @@
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\bin\Debug\Mp3PlayerApp.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\bin\Debug\Mp3PlayerApp.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\bin\Debug\Mp3PlayerApp.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.csprojResolveAssemblyReference.cache
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.Mp3PlayerForm.resources
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.Properties.Resources.resources
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.csproj.GenerateResource.Cache
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Mp3_Player\Mp3PlayerApp\obj\Debug\Mp3PlayerApp.pdb
